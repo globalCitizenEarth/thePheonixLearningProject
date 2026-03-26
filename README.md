@@ -1,7 +1,7 @@
 # thePheonixLearningProject
 This is a project where learning is engaging.   Music and programming are blended together.  Programming, web development, writing are also included in this project. 
 
-Topics include but not limited to:
+Topics include but not limited to from the repository description:
 javascript
 ruby 
 python 

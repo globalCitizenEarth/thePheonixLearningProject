@@ -20,3 +20,5 @@ assembly-language
 software-development 
 linux-development 
 applet-developpment
+sql
+web-programming

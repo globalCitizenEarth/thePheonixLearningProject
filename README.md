@@ -22,3 +22,4 @@ linux-development
 applet-developpment
 sql
 web-programming
+java

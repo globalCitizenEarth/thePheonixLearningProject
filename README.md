@@ -3,7 +3,7 @@ This is a project where learning is engaging.   Music and programming are blende
 
 Topics include but not limited to from the repository description:
 javascript
-ruby 
+ruby and also using SonicPi
 python 
 php 
 gui 
